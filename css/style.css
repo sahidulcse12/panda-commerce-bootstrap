@@ -14,12 +14,14 @@
     color: gray;
 }
 
-#carouselExampleSlidesOnly{
+/* #carouselExampleSlidesOnly{
     background-color: RGB(252, 234, 232);
-}
+} */
 
-.section-height{
+.panda-slide .carousel-item{
+    background-color: RGB(252, 234, 232);
     padding: 30px 0;
+    border-radius: 10px;
 }
 
 .slide-image img{
