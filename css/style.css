@@ -1,0 +1,27 @@
+.custom img{
+    height: 100px;
+}
+
+.custom{
+    height: 120px;
+}
+
+.touch{
+    background-color: RGB(252, 234, 232);
+}
+
+.touch h6{
+    color: gray;
+}
+
+#carouselExampleSlidesOnly{
+    background-color: RGB(252, 234, 232);
+}
+
+.section-height{
+    padding: 30px 0;
+}
+
+.slide-image img{
+    height: 450px;
+}
