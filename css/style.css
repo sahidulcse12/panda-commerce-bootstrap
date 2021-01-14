@@ -1,31 +1,51 @@
-.custom img{
-    height: 100px;
+
+      /* Header Area Design */
+
+header{
+    margin-top: 50px;
 }
 
-.custom{
-    height: 120px;
+h1{
+    font-family: 'Oswald', sans-serif;
 }
 
-.touch{
-    background-color: RGB(252, 234, 232);
+h4{
+    font-weight: bold;
 }
 
-.touch h6{
-    color: gray;
+p{
+    font-size: 20px;
 }
 
-/* #carouselExampleSlidesOnly{
-    background-color: RGB(252, 234, 232);
-} */
-
-.panda-slide .carousel-item{
-    background-color: RGB(252, 234, 232);
-    padding: 30px 0;
-    border-radius: 10px;
+.logo img{
+    height: 40px;
+    width: 300px;
 }
 
-.slide-image img{
-    height: 450px;
+.navbar-light .navbar-nav .text-color{
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.button-color{
+    background-color: blue;
+    padding: 15px 35px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    text-transform: uppercase;
+}
+
+      /* CASUAL SHOES SECTION  */
+
+.shoe{
+    width: 93%;
+    height: 93%;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 20px;
+    background-color: rgb(228, 237, 240);
 }
 
 .panda-card{
@@ -35,3 +55,35 @@
 .panda-footer{
     border: 0;
 }
+
+
+      /* Tolley Part */
+     
+      .card .pic-resize img{
+          height: 100px;
+          width: 100px;
+        
+      }
+
+      .row .picture img{
+          height: 450px;
+          width: 550px;
+      }
+
+      .zero .card {
+          border: none;
+    
+      }
+
+      .col-md-4 img{
+          height: 100px;
+          width: 100px;
+      }
+
+      .right-pic img{
+          height: 400px;
+          width: 500px;
+          margin-left: 50px;
+      }
+
+    
