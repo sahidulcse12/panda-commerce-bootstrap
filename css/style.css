@@ -86,4 +86,13 @@ p{
           margin-left: 50px;
       }
 
+      .custom{
+          padding: 50px 0;
+      }
+
+      .subscribe{
+          background-color: rgb(235, 226, 214);
+          border-radius: 20px;
+      }
+
     
